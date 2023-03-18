@@ -1,6 +1,6 @@
 # A cli tool built on top of Node.js to download videos from skill-capped.
 
-This cli assume that u have **installed [aria2c](https://github.com/aria2/aria2/releases) , [ffmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z) and accessible from your terminal**.
+It assume that u have **installed [aria2c](https://github.com/aria2/aria2/releases) , [ffmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z) and accessible from your terminal**.
 
 # Usages
    ## 1.Download a single video
